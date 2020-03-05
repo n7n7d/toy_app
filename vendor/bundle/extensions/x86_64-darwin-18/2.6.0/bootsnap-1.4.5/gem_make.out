@@ -1,0 +1,15 @@
+current directory: /Users/nischaynamdev/RubymineProjects/toy_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200305-31457-dp54tp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nischaynamdev/RubymineProjects/toy_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/nischaynamdev/RubymineProjects/toy_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nischaynamdev/RubymineProjects/toy_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200305-31457-6340ml/bootsnap
